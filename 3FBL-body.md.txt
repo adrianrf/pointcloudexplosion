@@ -1,13 +1,25 @@
-Stop Alert Flasher with G-Force sensor
-Your new Stop Alert module creates an attention-grabbing brake light flashing effect, alerting drivers following you to prepare to take immediate action to avoid collision. This sophisticated product employs state-of-the-art microprocessor-based logic combined with a highly-sensitive multi-axis accelerometer sensor, and enables to you select multiple configuration options. Built-in accelerometer senses vehicle brake g-force levels and activates appropriate flashing sequence. Module has two adjustable braking g-force levels (medium and hard braking) as well as ability to flash as soon as brakes are engaged. It works on both LED and incandescent bulbs. Flashing configurations are highly customizable with possibility of different light patterns during initial power up and two levels of braking g-force. 
+## Stop Alert Flasher with G-Force sensor
+Congratulations on purchasing your new Stop Alert module! 
 
-Supply voltage: 12 - 14 Volt
-Max current: 8 Amp or 100 Watt bulb
-Supports both LED and incandescent bulbs
+This innovative product creates an attention-grabbing flashing effect, using your vehicle's center high-mounted brake light, which helps warn other drivers following close behind you to prepare for immediate action, helping both you and them to avoid possibly devastating rear-end collisions. 
 
-Tools required for installation: Wire crimper tool (found in any auto / home improvement store).
+Stop Alert's sophisticated, state-of-the-art microprocessor logic uses a highly-sensitive multi-axis accelerometry sensor to continuously monitor your vehicle's braking status, enabling it to instantly activate the appropriate flashing sequence you select from a highly-customizable set of configuration choices. 
 
-Installation
+The Stop Alert module can be set to begin an initial flashing sequence as soon as your brake lights are engaged by the slightest movement of your brake pedal—i.e. when you simply "cover your brakes" purely as a precaution, well ahead of actually needing to slow significantly. This early signal to drivers behind markedly strengthens a defensive driving strategy, by letting you build up a larger "space buffer" behind you, well _before_ you actually begin to decelerate your vehicle to any significant degree. 
+
+If, as the road situation evolves, you start to commence significant deceleration, your Stop Alert module will — without any need for direct, active intervention on your part -- automatically and instantly detect the change of status, as your vehicle passes each of two adjustable deceleration thresholds (i.e. firstly, from the first moment you escalate from just "covering" your brakes to begin ordinary "moderate" braking; and then also from the instant you commence severe or "emergency" braking), responding with more urgent signalling.
+
+Owners of both older and newer vehicles can take advantage of Stop Alert, because it works equally well with either LED or incandescent bulb types. 
+
+### Specifications
+- Supply voltage: 12 - 14 Volt
+- Max current: 8 Amp or 100 Watt bulb
+- Supports both LED and incandescent bulbs
+
+#### Tools You'll Need
+- wire crimping tool (found in any auto / home improvement store).
+
+## Installation
 1.	Please read the entire manual before connecting, mounting and configuring Stop Alert Flasher.
 
 2.	Find 3rd brake light assembly, remove the cover to get access to wires. Find two wires leading to the bulb:  ground and power. Use voltmeter or referrer to the vehicle wiring diagram to correctly identify those wires.

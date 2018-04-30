@@ -1,0 +1,146 @@
+Stop Alert Flasher with G-Force sensor
+Your new Stop Alert module creates an attention-grabbing brake light flashing effect, alerting drivers following you to prepare to take immediate action to avoid collision. This sophisticated product employs state-of-the-art microprocessor-based logic combined with a highly-sensitive multi-axis accelerometer sensor, and enables to you select multiple configuration options. Built-in accelerometer senses vehicle brake g-force levels and activates appropriate flashing sequence. Module has two adjustable braking g-force levels (medium and hard braking) as well as ability to flash as soon as brakes are engaged. It works on both LED and incandescent bulbs. Flashing configurations are highly customizable with possibility of different light patterns during initial power up and two levels of braking g-force. 
+
+Supply voltage: 12 - 14 Volt
+Max current: 8 Amp or 100 Watt bulb
+Supports both LED and incandescent bulbs
+
+Tools required for installation: Wire crimper tool (found in any auto / home improvement store).
+
+Installation
+1.	Please read the entire manual before connecting, mounting and configuring Stop Alert Flasher.
+
+2.	Find 3rd brake light assembly, remove the cover to get access to wires. Find two wires leading to the bulb:  ground and power. Use voltmeter or referrer to the vehicle wiring diagram to correctly identify those wires.
+
+3.	Cut the power wire and connect provided male bullet connector to the end leading to the brake light bulb. Connect female bullet connector to other end leading to the brake switch. Attach male bullet connector to flasher’s red wire and plug it into female end leading to the brake switch. 
+
+[schematic drawing]
+
+4.	Attach female bullet connector to flasher’s yellow wire and connect it to wire leading to the brake bulb. Used provided quick splice and connect terminal to attach flasher’s black wire to vehicle ground wire or chassis.
+
+5.	Alternative installation: Follow above steps but instead of connecting flasher to 3rd light or dedicated light assembly, make the connection at the brake switch near the pedal. This way all vehicle brake lights will be controlled by flasher module (make sure total wattage of brake lights does not exceed 100 watts).
+
+6.	Electrical connection is complete. Now secure the module in its final position. Make sure vehicle is on flat, horizontal surface. Built-in accelerometer measuring axis has to be aligning with vehicle body to accurately measure deceleration g-force. With default factory configuration flasher module has to be mounted with its wires pointing towards the front of the vehicle, see Pic.2 below (position #1). Module can either be mounted vertically or horizontally, but is has to be positioned parallel to the surface vehicle is parked on. Make sure you can reach flasher configuration wires (two white wires) once module is secured in place.  Alternatively you can configure flasher and then mount it once configuration is complete. Module has to be securely attached to the vehicle hard surfaces. Do not attach module to moving parts, vehicle motion will not be accurately transferred to module internal accelerometer sensor. There are three additional mounting positions in case the flasher module cannot be mounted with wires pointing towards the front of the vehicle. See Pic.2 for alternative mounting positions. Flasher can be rotated over it measuring axis as show in the Pic.2. Once final position is determined it needs to be set in flasher configuration. Improperly mounted flasher module would not be able to pickup deceleration g-force. 
+
+Light flashing configuration options
+
+Flasher comes with preprogrammed factory flashing configuration but configuration could be customized by the user. It is accomplished by setting up parameters listed below. 
+
+	Parameter	Value	Description
+1	Module position
+1 – Position #1
+2 – Position #2
+3 – Position #3
+4 – Position #4	See Pic.2. Position #1 is default.
+
+2	Operating Mode	1 – Normal
+2 – Active
+
+3 – Restore Default
+
+4 – Position Calibration	Normal – Normal operation. Light is ON between flashing modes.
+
+Active – Light is initially OFF but turns ON during flashing operation and stays ON while power is applied. (This mode is primary designed for motorcycles with additional brake light when it is desired for light to come ON only during flashing operation and then stay ON as long as brakes are engaged).
+ 
+Restore Default – By selecting this mode all configuration parameters are restored to default factory settings.
+
+Position Calibration – Steady light indicates proper horizontal mounting position. Blinking light – module is not in horizontal position.
+
+3	Activation by	
+1 – Initial Power applied
+2 – Medium Braking Force.
+3 – High Braking Force. 	Select the period you want to configure flashing pattern for. Each period has its own flashing configuration which is configured with parameters following this one. 
+ #1 to configure flashing pattern when the power is just applied. 
+
+#2 to configure flashing pattern during Medium Braking.
+
+#3 during High Braking force. 
+
+4	Braking Force configuration for select mode above
+1 – 5 Levels for Medium Braking Force (0.25 to 0.50 G).
+2 – 10 Levels for High Braking Force (0.25 to 0.8G).	Select G Force threshold levels for Medium and High Braking.
+If previous selected parameter was #3 then you are working with Medium g-force.
+
+5	Light Flashing mode	
+1 – Steady rate flash.
+2 – Normal rate flashing followed by slow flashing.
+3 – Continues change of flashing rate from normal to slow.
+4 – Flashing disabled.	
+
+#1 Standard mode: flashes at preset rate.
+#2 Flashes at preset rate, then repeats at one-third of initial rate.
+#3 Flashes at preset rate; rate decreases with each cycle.
+#4 Flashing disabled: Steady light.
+
+6	Number of flashes	from 1 to 20	Flash count per cycle.
+
+7	Flashing rate	30 rates, from very fast to very slow	Flashing rate.
+
+8	Continuation Mode
+1 – Disabled
+2 – Repeat after 4 sec
+3 – Repeat after 8 sec
+4 – Repeat after 12 sec
+5 – Repeat after 16 sec
+6 – Continuous flash (no delay)
+
+In continuous mode, light cycles through your chosen flashing pattern, pausing for the preset delay period before each new cycle. 
+
+Example: 
+with Continuation Mode set to #1, and brakes continuously engaged, your brake light will cycle through the flashing sequence, pause for 6 seconds, then repeat. 
+with Continuation Mode #5, the flashing pattern will not be repeated (until you first disengage and then re-apply your vehicle’s brakes.) 
+
+[parameters table]
+Flasher programming parameters map
+
+[orientation figure]
+Flasher Module in-vehicle orientation setting
+
+Changing flashing configurations
+
+Your Stop Alert Module comes with factory-preset parameter values that may already suit your needs; if so, it is ready for immediate installation. 
+
+If you prefer, you can quickly reconfigure your Stop Alert unit with different parameter values, to change your unit’s behavior as described above. 
+
+First, connect the unit to your car’s brake-light circuit as shown, providing it with a power source. 
+
+Then, cut the white wire loop at its approximate mid-point, and strip off a little insulation from the newly-cut ends, exposing a short length of wire conductor at each tip.
+
+Now, you’ll simply touch these bare ends together momentarily, signaling the Stop Alert module to change its configuration to your preferred parameter values.
+
+To enter programming mode, short the two white wires together for a brief moment.
+
+Once in programming mode, shorting the white wires quickly (i.e. for less than 1 second) *increments* the current parameter value. 
+Shorting them for *more than 2 seconds* instructs the Stop Alert unit to *save the current value* into its internal memory, and then to move on to the next parameter. 
+
+Saving the configuration is confirmed by rapid flashing of the brake lights.
+      
+To start over, power-off your Stop Alert module [ie. release your vehicle’s brakes] and repeat the programming sequence.
+ 
+Example Configuration Sequence
+1.	Depress the vehicle’s brake pedal so the brake lights come on and stay illuminated (you can ask somebody for help, or simply rest something sufficiently heavy on the brake pedal).
+
+2.	The first time the brake pedal is pushed, the CHMBL will play the default Stop Alert flashing pattern; the CHMBL will then stay steadily ON.
+
+3.	To enter programming mode, short the two white wires together quickly (i.e. for less than 1 second). 
+
+Your Stop Alert unit will blink the CHMBL 3 times, then switch it OFF.
+
+4.	The Stop Alert’s first parameter value records the physical orientation of the module itself, relative to the vehicle’s longitudinal axis (i.e. the direction you drive the vehicle forwards). 
+
+After the Stop Alert module enters programming mode, it will display the current value of this parameter by blinking; the number of light flashes directly indicates the parameter’s current value (the factory default value is 1). 
+
+5.	Now you have two choices: you can either change the Orientation parameter value, or you can move on to the next parameter.
+
+6.	To change the setting, quickly short two white wires together for less than 1 second. The parameter value will increase by one, and the CHMBL will blink, showing the new value.
+
+To further *increment* the current parameter value, again quickly short the two white wires together (i.e. for less than 1 second.)
+
+Otherwise, confirm and save the new setting, by shorting the two white wires together for *at least 2 seconds*--until the light blinks rapidly.
+
+8.	Once the parameter is saved into Stop Alert module internal memory the programming will move on to the second parameter which is Operating Mode. You can either change it or move on to the next parameter by shorting two white wires together like it was done in the step #7.
+9.	The third parameter is Activated by and it allows to select which relative configuration will be changed next. Refer to Pic 1. Each Activated by selectio follows by flashing configuration parameters relative to the selected Activated by choice.
+10.	Continue with flasher configuration changes repeating the steps above.
+11.	Once Initial Power flashing sequence has been set, power off the flasher and restart programming selecting Activated by set to #2 now.
+12.	Complete flashing configuration parameters changes, power off the flasher and restart programming selecting Activated by set to #3 now.
+
